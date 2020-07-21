@@ -7,6 +7,7 @@ Gostou da ideia?
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
+* [Scrolling Text com mudança de cor](#id03)
 
 **Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>**
 <br>
@@ -16,6 +17,9 @@ Gostou da ideia?
 
 <img width="200x" src="https://user-images.githubusercontent.com/54906981/88062795-ab90e780-cb3f-11ea-8d10-f8aafff68197.gif">
 
+**Desafio dia 03 - Scrolling Text com mudança de cor**<a name="id03"></a>
+
+<img width="300x" src="https://user-images.githubusercontent.com/54906981/88197281-9cca3380-cc18-11ea-92dd-0253f9b2b1db.gif">
 
 
 
