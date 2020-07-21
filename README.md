@@ -19,7 +19,7 @@ Gostou da ideia?
 
 **Desafio dia 03 - Scrolling Text com mudança de cor**<a name="id03"></a>
 
-<img width="300x" src="https://user-images.githubusercontent.com/54906981/88197281-9cca3380-cc18-11ea-92dd-0253f9b2b1db.gif">
+<img width="300x" src="https://user-images.githubusercontent.com/54906981/88197873-748f0480-cc19-11ea-9f32-25cc50c7cdd0.gif">
 
 
 
