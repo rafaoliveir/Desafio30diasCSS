@@ -37,5 +37,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 **Desafio dia 05 - Efeito Pulsar<a name="id05"></a>**
 <br>
-<img width="300px" src="https://user-images.githubusercontent.com/54906981/88360294-7a850280-cd4b-11ea-8943-11a2d3868d45.gif">
+<img width="150px" src="https://user-images.githubusercontent.com/54906981/88360294-7a850280-cd4b-11ea-8943-11a2d3868d45.gif">
 
