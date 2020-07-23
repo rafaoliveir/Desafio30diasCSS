@@ -9,6 +9,14 @@ Gostou da ideia?
 * [Dia 02 - Loader animado](#id02)
 * [Dia 03 - Scrolling Text com mudança de cor](#id03)
 
+## 💻 Tecnologias utilizadas
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML
+- CSS
+
+## ✔️ Resultado
+
 **Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>**
 <br>
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/88053424-26eb9c80-cb32-11ea-93f8-964a155b9856.gif">
