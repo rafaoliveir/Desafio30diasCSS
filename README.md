@@ -8,6 +8,7 @@ Gostou da ideia?
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
 * [Dia 03 - Scrolling Text com mudança de cor](#id03)
+* [Dia 04 - Botão com efeito na borda](#id04)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -29,6 +30,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <img width="300x" src="https://user-images.githubusercontent.com/54906981/88197873-748f0480-cc19-11ea-9f32-25cc50c7cdd0.gif">
 
-
+**Desafio dia 04 - Botão com efeito na borda<a name="id04"></a>**
+<br>
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/88250747-ea798700-cc7e-11ea-81b9-be08c740857c.gif">
 
 
