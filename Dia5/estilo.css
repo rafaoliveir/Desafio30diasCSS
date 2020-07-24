@@ -23,6 +23,7 @@ section{
     text-transform: uppercase;
     animation: animate 1.5s linear infinite;
 }
+
 @keyframes animate{
     0%{
         box-shadow:0 0 0 #21ebff, 0 0 0 #21ebff;
