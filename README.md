@@ -9,6 +9,7 @@ Gostou da ideia?
 * [Dia 02 - Loader animado](#id02)
 * [Dia 03 - Scrolling Text com mudança de cor](#id03)
 * [Dia 04 - Botão com efeito na borda](#id04)
+* [Dia 05 - Efeito Pulsar](#id05)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -34,4 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/88250747-ea798700-cc7e-11ea-81b9-be08c740857c.gif">
 
+**Desafio dia 05 - Efeito Pulsar<a name="id05"></a>**
+<br>
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/88250747-ea798700-cc7e-11ea-81b9-be08c740857c.gif">
 
