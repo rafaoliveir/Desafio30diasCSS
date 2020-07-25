@@ -20,7 +20,7 @@ ul li {
     color: #484848;
     font-size: 100px;
     letter-spacing: 30px;
-    animation: animate 1.4s linear infinite;
+    animation: animate 2s linear infinite;
 }
 @keyframes animate
 {
@@ -36,7 +36,7 @@ ul li {
 
 	100% {
 		color: #21ebff;
-		text-shadow: 0 0 30px #21ebff, 0 0 80px #21ebff;
+		text-shadow: 0 0 30px  #21ebff, 0 0 80px #21ebff;
 	}
 }
 
