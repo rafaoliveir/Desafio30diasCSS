@@ -42,4 +42,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 **Desafio dia 06 - Texto animado com iluminação<a name="id05"></a>**
 <br>
-<img width="300px" src="https://user-images.githubusercontent.com/54906981/88457376-346b9400-ce5c-11ea-984b-3c538df1f359.gif">
+<img width="150px" src="https://user-images.githubusercontent.com/54906981/88457376-346b9400-ce5c-11ea-984b-3c538df1f359.gif">
