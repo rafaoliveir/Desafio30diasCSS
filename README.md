@@ -40,7 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 <img width="200px" src="https://user-images.githubusercontent.com/54906981/88360294-7a850280-cd4b-11ea-8943-11a2d3868d45.gif">
 
-<!-- **Desafio dia 06 - Texto animado com iluminação<a name="id06"></a>**
+**Desafio dia 06 - Texto animado com iluminação<a name="id06"></a>**
 <br>
 
-<img width="150px" src="https://user-images.githubusercontent.com/54906981/88457376-346b9400-ce5c-11ea-984b-3c538df1f359.gif"> -->
+<img width="150px" src="https://user-images.githubusercontent.com/54906981/88458844-371fb680-ce67-11ea-8a1d-24fdaf5be9b4.gif">
