@@ -10,6 +10,7 @@ Gostou da ideia?
 * [Dia 03 - Scrolling Text com mudança de cor](#id03)
 * [Dia 04 - Botão com efeito na borda](#id04)
 * [Dia 05 - Efeito Pulsar](#id05)
+* [Dia 06 - Texto animado com iluminação](#id06)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -39,3 +40,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/88250747-ea798700-cc7e-11ea-81b9-be08c740857c.gif">
 
+**Desafio dia 06 - Texto animado com iluminação<a name="id05"></a>**
+<br>
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/88457376-346b9400-ce5c-11ea-984b-3c538df1f359.gif">

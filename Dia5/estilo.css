@@ -25,16 +25,16 @@ section{
     animation: animate 1.5s linear infinite;
 }
 @keyframes animate{
-    0%{
-        box-shadow:0 0 0 #21ebff, 0 0 0 #21ebff;
+    0%{/* offset-x | offset-y | blur-radius | spread-radius | color */
+        box-shadow:0 0 0 #21ebff, 0 0 0  #21ebff;
         
     }
     40%{
-        box-shadow:0 0 80px #bc13fe, 0 0 60px #bc13fe;
+        box-shadow:0 0 80px #bc13fe, 0 0 60px 5px #bc13fe;
         
     }
     80%{
-        box-shadow:0 0 150px #fb0094, 0 0 130px #fb0094;
+        box-shadow:0 0 150px #fb0094, 0 0 130px 5px #fb0094;
         
     }
     100%{
