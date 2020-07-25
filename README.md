@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 **Desafio dia 04 - Botão com efeito na borda<a name="id04"></a>**
 <br>
-<img width="150px" src="https://user-images.githubusercontent.com/54906981/88250747-ea798700-cc7e-11ea-81b9-be08c740857c.gif">
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/88250747-ea798700-cc7e-11ea-81b9-be08c740857c.gif">
 
 **Desafio dia 05 - Efeito Pulsar<a name="id05"></a>**<br>
 <br>
@@ -43,4 +43,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Desafio dia 06 - Texto animado com iluminação<a name="id06"></a>**
 <br>
 
-<img width="150px" src="https://user-images.githubusercontent.com/54906981/88458844-371fb680-ce67-11ea-8a1d-24fdaf5be9b4.gif">
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/88458844-371fb680-ce67-11ea-8a1d-24fdaf5be9b4.gif">
