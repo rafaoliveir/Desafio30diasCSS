@@ -30,7 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 **Desafio dia 03 - Scrolling Text com mudança de cor**<a name="id03"></a>
 
-<img width="300x" src="https://user-images.githubusercontent.com/54906981/88197873-748f0480-cc19-11ea-9f32-25cc50c7cdd0.gif">
+<img width="150x" src="https://user-images.githubusercontent.com/54906981/88197873-748f0480-cc19-11ea-9f32-25cc50c7cdd0.gif">
 
 **Desafio dia 04 - Botão com efeito na borda<a name="id04"></a>**
 <br>
