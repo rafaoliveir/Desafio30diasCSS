@@ -3,7 +3,6 @@ body{
     padding: 0;
     background: #000;
 }
-
 section{
     position: absolute;
     top: 50%;
@@ -15,7 +14,7 @@ section{
     height: 100px;
     background: #000;
     border-radius: 100%;
-    color:   #6E0DD0;
+    color: #6E0DD0;
     font-size: 16px;
     text-align: center;
     line-height: 100px;
@@ -24,8 +23,10 @@ section{
     text-transform: uppercase;
     animation: animate 1.5s linear infinite;
 }
+
 @keyframes animate{
-    0%{/* offset-x | offset-y | blur-radius | spread-radius | color */
+     0%{
+         /* offset-x | offset-y | blur-radius | spread-radius | color */
         box-shadow:0 0 0 #21ebff, 0 0 0  #21ebff;
         
     }
