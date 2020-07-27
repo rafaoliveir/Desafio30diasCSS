@@ -49,4 +49,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Desafio dia 07 - Loading animado II <a name="id07"></a>**
 <br>
 
-<img width="200px" src="https://user-images.githubusercontent.com/54906981/88498553-d04eea00-cf99-11ea-8bb8-3d8896c77f5d.gif">
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/88498773-76025900-cf9a-11ea-8c50-44da88073aed.gif">
