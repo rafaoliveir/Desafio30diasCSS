@@ -11,7 +11,8 @@ Gostou da ideia?
 * [Dia 04 - Botão com efeito na borda](#id04)
 * [Dia 05 - Efeito Pulsar](#id05)
 * [Dia 06 - Texto animado com iluminação](#id06)
-* [Dia 06 -  Loading animado II](#id07)
+* [Dia 07 -  Loading animado II](#id07)
+* [Dia 08 -  Coração animado](#id08)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -50,3 +51,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="200px" src="https://user-images.githubusercontent.com/54906981/88498773-76025900-cf9a-11ea-8c50-44da88073aed.gif">
+
+**Desafio dia 08 - Coração animado <a name="id08"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/88553860-248ab600-cffc-11ea-9a59-4fe4640b5430.gif">
