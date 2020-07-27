@@ -11,7 +11,7 @@ Gostou da ideia?
 * [Dia 04 - Botão com efeito na borda](#id04)
 * [Dia 05 - Efeito Pulsar](#id05)
 * [Dia 06 - Texto animado com iluminação](#id06)
-* [Dia 06 - Loader animado (quadradinhos)](#id07)
+* [Dia 06 -  Loading animado II](#id07)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -46,7 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <img width="200px" src="https://user-images.githubusercontent.com/54906981/88458844-371fb680-ce67-11ea-8a1d-24fdaf5be9b4.gif">
 
-**Desafio dia 07 - Loader animado (quadradinhos) <a name="id07"></a>**
+**Desafio dia 07 - Loading animado II <a name="id07"></a>**
 <br>
 
-<img width="200px" src="https://user-images.githubusercontent.com/54906981/88496584-04bfa780-cf94-11ea-888f-b1e4dc8ea6e9.gif">
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/88498553-d04eea00-cf99-11ea-8bb8-3d8896c77f5d.gif">
