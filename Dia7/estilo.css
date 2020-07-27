@@ -15,6 +15,7 @@ body
     width: 300px;
     height: 300px;
     position: relative;
+    border-radius: 8px;
 }
 
 span
