@@ -1,0 +1,83 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.cont
+{
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
+
+span
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: rgba(135, 0, 0, .6);
+    background: linear-gradient(to right,    #EAB5A1, #D07CA7, #F4915E, #F5919E, #B46F89);
+    background-position: 0% 50%;
+    background-size: 1000% 1000%;
+    border-radius: 8px;
+    animation: animate 3s linear infinite;
+
+}
+
+span:nth-child(2)
+{
+    animation-delay: 1s;
+}
+span:nth-child(1)
+{
+    animation-delay: 2s;
+}
+
+
+@keyframes animate
+{
+    0% {
+        top: 0; left: 0;
+    }
+
+    15% { 
+        top: 0; left: 50%;
+    }
+
+    25% { 
+        top: 0; left: 50%;
+    }
+
+    35% { 
+        top: 50%; left: 50%;
+    }
+
+    45% { 
+        top: 50%; left: 50%;
+    }
+
+    65% { 
+        top: 50% ; left: 0;
+    }
+
+    75% { 
+        top: 50% ; left: 0;
+    }
+
+    85% { 
+        top: 0; left: 0;
+    }
+
+    100% { 
+        top: 0; left: 0;
+    }
+}
+
+
