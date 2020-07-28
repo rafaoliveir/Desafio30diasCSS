@@ -13,7 +13,7 @@ Gostou da ideia?
 * [Dia 06 - Texto animado com iluminação](#id06)
 * [Dia 07 -  Loading animado II](#id07)
 * [Dia 08 -  Coração animado](#id08)
-* [Dia 08 -  Pêndulo de Newton](#id09)
+* [Dia 09 -  Pêndulo de Newton](#id09)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
