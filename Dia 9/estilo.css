@@ -1,0 +1,65 @@
+body{
+    background-color: #bcd9ff;
+  }
+  .pendulo{
+    position:absolute; 
+    width: 220px;
+    height: 180px;
+    background-color: #bcffe2;
+    top:50%;
+    left:  50%;
+    border-radius: 5%;
+    align-items: center;
+    border-top: 15px solid #fff;
+    transform: translate(-50%, -50%);
+    }
+  .caixa{
+    display: flex;
+    padding: 120px 0 0 10px;
+    position: absolute;
+    flex: 1;
+  }
+  .bola{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #ffbcd9;
+    position: relative;
+    transform-origin: 50% -300%;
+    
+  }
+    .bola::before{
+      content: '';
+      width: 2px;
+      height: 120px;
+      background-color: #fffeff;
+      left: 18px;
+      top: -120px;
+      position: absolute;
+    }
+  
+  .primeira.bola{
+    animation: primeira .9s alternate ease-in infinite;
+  }
+  
+  @keyframes primeira{
+    0%{
+      transform: rotate(35deg);
+    }
+    50%{
+      transform: rotate(0deg);
+    }
+  }
+  
+  .ultima.bola{
+    animation: ult .9s alternate ease-out infinite;
+  }
+  
+  @keyframes ult{
+    50%{
+      transform: rotate(0deg);
+    }
+    100%{
+      transform: rotate(-35deg);
+    }
+  }
