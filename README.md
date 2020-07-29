@@ -67,4 +67,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Desafio dia 10 - Texto animado com mudança de emoji <a name="id10"></a>**
 <br>
 
-<img width="200px" src="https://user-images.githubusercontent.com/54906981/88806758-36e52b00-d187-11ea-9e90-19ccba0f2c79.gif"> 
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/88806758-36e52b00-d187-11ea-9e90-19ccba0f2c79.gif"> 
