@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background:white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    font-size: 72px;
+    color:#21ebff; 
+   
+}
+.botao{
+    position: relative;
+    width: 150px;
+    height: 100px;
+    background: white;
+    border: 5px solid;
+    color:#21ebff;
+    cursor: pointer;
+}
+.botao::before{
+    
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 5px;
+    background:white;
+    transform: skew(50deg);
+    transition: 0.5s linear;
+    top: -5px;
+    left: 2%;
+}
+.botao::after{
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 5px;
+    background:white;
+    transform: skew(50deg);
+    transition: 0.5s linear;
+    bottom: -5px;
+    right: 2%;
+}
+
+.botao:hover::after{
+    right: 82%; /*caminho do "" na hora do hover*/
+}
+.botao:hover::before{
+    left: 82%
+
+}
