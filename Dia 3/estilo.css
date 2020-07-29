@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+.conteudo{
+    width: 100%;
+    height: 100%;
+    background: black;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: absolute;
+}
+
+.rolagem{
+    height: 100%;
+    width: 50%;
+    background: white;
+    overflow: hidden;
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.slide{
+    position: absolute;
+    top: 50%;
+    white-space: nowrap;
+    font-size: 10em;
+    line-height: 220px;
+    overflow: hidden;
+    font-family: "Oswald", Helvetica, sans-serif;
+    animation: animate 15s linear infinite;
+}
+@keyframes animate{
+    0% {
+        transform: translate(0, -50%);
+    }
+    100% {
+        transform: translate(-50%, -50%);
+    }
+}
