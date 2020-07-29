@@ -11,9 +11,10 @@ Gostou da ideia?
 * [Dia 04 - Botão com efeito na borda](#id04)
 * [Dia 05 - Efeito Pulsar](#id05)
 * [Dia 06 - Texto animado com iluminação](#id06)
-* [Dia 07 -  Loading animado II](#id07)
-* [Dia 08 -  Coração animado](#id08)
-* [Dia 09 -  Pêndulo de Newton](#id09)
+* [Dia 07 - Loading animado II](#id07)
+* [Dia 08 - Coração animado](#id08)
+* [Dia 09 - Pêndulo de Newton](#id09)
+* [Dia 10 - Texto animado com mudança de emoji](#id010)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -62,3 +63,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="200px" src="https://user-images.githubusercontent.com/54906981/88677603-e35dd900-d0c3-11ea-8b0f-f715ea9d112c.gif">
+
+**Desafio dia 10 - Texto animado com mudança de emoji <a name="id10"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/88806758-36e52b00-d187-11ea-9e90-19ccba0f2c79.gif"> 

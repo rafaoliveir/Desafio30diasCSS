@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+ /* section{
+    width: 400px;
+    height: 80px;
+    background-color: #fff;
+    border: 1px solid #681CA5;  
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+}  */
+p
+{
+     
+    color: #681CA5;
+    font-size: 35px;
+    font-family: 'Press Start 2P', sans-serif;
+}
+span.emoji::before
+{
+    content: '';
+    animation: emoji 5s infinite;
+}
+  
+@keyframes emoji
+{
+    0% {
+   
+        content: '☕';
+        
+    }
+
+    10%{
+        content: '🐾';
+    }
+
+   20%{
+       content: '🎮';
+    }
+
+   30% {
+       content: '💻'
+    }
+
+    40%{
+        content: '🎵';
+    }
+
+    50%{
+        content: '🍧';
+    }
+
+    60%{
+        content: '❄️';
+    }
+
+    70%{
+        content: '🍕';
+    }
+
+    80%{
+        content: '📸';
+    }
+
+    90%{
+        content: '⚽';
+    }
+
+    100%{
+        content: '🎬';
+    } 
+}
