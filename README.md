@@ -1,5 +1,18 @@
 # 🚀 30diasDeCSS 🚀
 
+<p align="center">
+  
+<img height="200px" src="https://user-images.githubusercontent.com/54906981/88979737-a72fa180-d298-11ea-9cf4-1e5b8b00a316.png">
+  
+  <br>
+ 
+ <p align="center"> 
+  
+ [Página Índice do Projeto](https://rafaoliveir.github.io/Desafio30diasCSS/)
+
+ <br>
+  
+## 💡 Sobre o projeto
 O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades de codificação com a criação de mini projetos diários utilizando HTML5 e CSS3.
 
 **Gostou da ideia? 
@@ -15,6 +28,7 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 08 - Coração animado](#id08)
 * [Dia 09 - Pêndulo de Newton](#id09)
 * [Dia 10 - Texto animado com mudança de emoji](#id010)
+* [Dia 11 - Botão com efeito hover](#id011)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -70,3 +84,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/88806758-36e52b00-d187-11ea-9e90-19ccba0f2c79.gif"> 
+
+**Desafio dia 11 - Botão com efeito hover <a name="id11"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/88979579-5d46bb80-d298-11ea-88e7-85d0d0a5d2c0.gif"> 
