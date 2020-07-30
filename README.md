@@ -2,8 +2,8 @@
 
 O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades de codificação com a criação de mini projetos diários utilizando HTML5 e CSS3.
 
-Gostou da ideia? 
-[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
+**Gostou da ideia? 
+[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar!** 
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
@@ -22,7 +22,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - HTML
 - CSS
 
-## ✔️ Resultado
+## ✔️ Resultados
+
+
 
 **Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>**
 <br>
