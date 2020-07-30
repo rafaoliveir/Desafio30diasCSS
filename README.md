@@ -27,8 +27,8 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 07 - Loading animado II](#id07)
 * [Dia 08 - Coração animado](#id08)
 * [Dia 09 - Pêndulo de Newton](#id09)
-* [Dia 10 - Texto animado com mudança de emoji](#id010)
-* [Dia 11 - Botão com efeito hover](#id011)
+* [Dia 10 - Texto animado com mudança de emoji](#id10)
+* [Dia 11 - Botão com efeito hover](#id11)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
