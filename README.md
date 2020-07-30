@@ -88,4 +88,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Desafio dia 11 - Botão com efeito hover <a name="id11"></a>**
 <br>
 
-<img width="300px" src="https://user-images.githubusercontent.com/54906981/88980781-c9c2ba00-d29a-11ea-9ba8-2448dfda420c.gif"> 
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/88980934-2e7e1480-d29b-11ea-9538-e89bae61de84.gif"> 
