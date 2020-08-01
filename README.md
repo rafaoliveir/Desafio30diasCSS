@@ -91,7 +91,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/88980934-2e7e1480-d29b-11ea-9538-e89bae61de84.gif"> 
 
-**Desafio dia 12 - Efeito de preenchimento com hover <a name="id11"></a>**
+**Desafio dia 12 - Efeito de preenchimento com hover <a name="id12"></a>**
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/89089768-580b6e80-d375-11ea-8c33-caca8d682585.gif"> 
