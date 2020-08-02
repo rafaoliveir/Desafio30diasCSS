@@ -30,6 +30,7 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 10 - Texto animado com mudança de emoji](#id10)
 * [Dia 11 - Botão com efeito hover](#id11)
 * [Dia 12 - Efeito de preenchimento com hover](#id12)
+* [Dia 13 - Texto com efeito flutuante](#id13)
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -95,3 +96,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/89089768-580b6e80-d375-11ea-8c33-caca8d682585.gif"> 
+
+**Desafio dia 13 - Texto com efeito flutuante <a name="id13"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/89128974-b9475500-d4cf-11ea-9c74-129805dd5cc2.gif"> 
