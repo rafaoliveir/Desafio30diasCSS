@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+body {
+	height: 100vh;
+    display: flex;
+    font-family: 'Anton', sans-serif;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to bottom right,#DCFFFB, #bcffe2, #8DD6FF, #DABFDE, #FFDCF4, #E0BBE4,#D07CA7,#F5919E,#EAB5A1, #F4915E);
+}
+
+h1 {
+	font-size: 150px;
+	text-align: center;
+	text-transform: uppercase;
+	background: url(bg.jpg);
+	-webkit-background-clip: text;
+	color: transparent;
+	animation: text-background 25s linear infinite;
+}
+
+@keyframes text-background {
+
+	from { background-position: 0 0 }
+
+	to { background-position: 100% 100% }
+
+} 
