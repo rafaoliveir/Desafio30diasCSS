@@ -32,6 +32,8 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 12 - Efeito de preenchimento com hover](#id12)
 * [Dia 13 - Texto com efeito flutuante](#id13)
 * [Dia 14 - Texto com fundo animado](#id14)
+* [Dia 14 - Texto flutuante com sombra](#id15)
+
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -107,3 +109,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/89138932-963e9480-d513-11ea-8663-def28e6ca0aa.gif"> 
+
+**Desafio dia 15 - Texto flutuante com sombra <a name="id15"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/89252986-b47ac200-d5f1-11ea-9d11-1c20f2392c1e.gif"> 
+
