@@ -128,5 +128,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Desafio dia 17 - Loader <a name="id17"></a>**
 <br>
 
-<img width="300px" src="https://user-images.githubusercontent.com/54906981/89484894-e9178680-d775-11ea-880e-bb1cd70032ce.gif"> 
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/89484894-e9178680-d775-11ea-880e-bb1cd70032ce.gif"> 
 
