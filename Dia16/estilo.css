@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+button {
+    color: #fff;
+	background-color: #30BFBF;
+	text-decoration: none;
+	font-size: 40px;
+	padding: 30px 80px;
+	position: relative;
+	transition: all 1s;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+button:before {
+    content: 'Dia 16 concluído com sucesso!';
+    font-family: 'Indie Flower', cursive;
+	color: #fff;
+	background-color: #FF355E;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	transform: translateY(-100%);
+	transition:all .3s;
+}
+
+    button:hover:before {
+        transform: translateY(0);
+    }
