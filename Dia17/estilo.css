@@ -1,0 +1,23 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #8DD9CC;
+}
+
+.bola {
+	width: 100px;
+	height: 100px;
+	background-color: #01786F;
+	border-radius: 50%;
+	animation: animate 3s linear infinite;
+}
+
+@keyframes animate {
+	0% { transform: rotateX(0deg) rotateY(0deg); }
+
+	50% { transform: rotateX(0deg) rotateY(180deg); }
+
+	100% { transform: rotateX(180deg) rotateY(180deg); }
+}
