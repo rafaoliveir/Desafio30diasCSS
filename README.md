@@ -35,6 +35,7 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 15 - Texto flutuante com sombra](#id15)
 * [Dia 16 - Botão com efeito hover](#id16)
 * [Dia 17 - Loader](#id17)
+* [Dia 18 - Texto animado (fading)](#id18)
 
 
 
@@ -129,4 +130,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="200px" src="https://user-images.githubusercontent.com/54906981/89484894-e9178680-d775-11ea-880e-bb1cd70032ce.gif"> 
+
+**Desafio dia 18 - Texto animado <a name="id18"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/89694845-59461980-d8e8-11ea-8156-1ef1e9c88409.gif"> 
+
 
