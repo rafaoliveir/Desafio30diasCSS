@@ -36,6 +36,7 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 16 - Botão com efeito hover](#id16)
 * [Dia 17 - Loader](#id17)
 * [Dia 18 - Texto animado (fading)](#id18)
+* [Dia 19 - Animação (luzes flutuantes)](#id19)
 
 
 
@@ -135,5 +136,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="200px" src="https://user-images.githubusercontent.com/54906981/89694845-59461980-d8e8-11ea-8156-1ef1e9c88409.gif"> 
+
+
+**Desafio dia 19 - Animação (luzes flutuantes) <a name="id19"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/89713950-9dc9c780-d971-11ea-8a23-40f3f9be4188.gif"> 
 
 
