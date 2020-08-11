@@ -39,6 +39,7 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 19 - Animação (luzes flutuantes)](#id19)
 * [Dia 20 - Botão com efeito](#id20)
 * [Dia 21 - Animação (bolas)](#id21)
+* [Dia 22 - Ícones](#id22)
 
 
 
@@ -155,6 +156,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="200px" src="https://user-images.githubusercontent.com/54906981/89908512-56874500-dbc4-11ea-9280-cba0d6cca34f.gif"> 
+
+**Desafio dia 22 - Ícones <a name="id22"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/89911116-70765700-dbc7-11ea-848b-77a1995416f8.gif"> 
 
 
 
