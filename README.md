@@ -38,6 +38,7 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 18 - Texto animado (fading)](#id18)
 * [Dia 19 - Animação (luzes flutuantes)](#id19)
 * [Dia 20 - Botão com efeito](#id20)
+* [Dia 21 - Animação (bolas)](#id21)
 
 
 
@@ -149,5 +150,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/89743142-77418480-da76-11ea-8160-f5ea510f367b.gif"> 
+
+**Desafio dia 21 - Animação (bolas) <a name="id21"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/89908512-56874500-dbc4-11ea-9280-cba0d6cca34f.gif"> 
+
 
 
