@@ -40,6 +40,8 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 20 - Botão com efeito](#id20)
 * [Dia 21 - Animação (bolas)](#id21)
 * [Dia 22 - Ícones](#id22)
+* [Dia 23 - Botão com efeito hover animado](#id23)
+
 
 
 
@@ -161,6 +163,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/89911116-70765700-dbc7-11ea-848b-77a1995416f8.gif"> 
+
+**Desafio dia 23 - Botão com efeito hover <a name="id23"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/89969287-60dd2980-dc2c-11ea-87ac-a8cc9fd1555b.gif"> 
 
 
 
