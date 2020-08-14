@@ -41,6 +41,8 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 21 - Animação (bolas)](#id21)
 * [Dia 22 - Ícones](#id22)
 * [Dia 23 - Botão com efeito hover animado](#id23)
+* [Dia 24 - Loader animado (quadrados)](#id24)
+* [Dia 25 - Checkbox](#id25)
 
 
 
@@ -168,6 +170,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/89969287-60dd2980-dc2c-11ea-87ac-a8cc9fd1555b.gif"> 
+
+**Desafio dia 24 - Loader animado (quadrados) <a name="id24"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/90298200-a174b700-de67-11ea-85a3-e80a437adcbb.gif"> 
+
+**Desafio dia 25 - Checkbox iluminada <a name="id25"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/90298409-92423900-de68-11ea-951e-d45ffc6d22a3.gif"> 
+
 
 
 
