@@ -43,6 +43,10 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 23 - Botão com efeito hover animado](#id23)
 * [Dia 24 - Loader animado (quadrados)](#id24)
 * [Dia 25 - Checkbox](#id25)
+* [Dia 26 - Animação (rampa)](#id26)
+* [Dia 27 - Loading (efeito pulsar)](#id27)
+* [Dia 28 - Mudança de Cor no BG](#id28)
+* [Dia 29 - Menu Responsivo](#id29)
 
 
 
@@ -180,6 +184,27 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/90298409-92423900-de68-11ea-951e-d45ffc6d22a3.gif"> 
+
+**Desafio dia 26 - Animação (rampa) <a name="id26"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/90541032-6967bf80-e158-11ea-8365-d8c4482b00de.gif">
+
+**Desafio dia 27 - Loading (efeito pulsar) <a name="id27"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/90541033-6a98ec80-e158-11ea-83b7-21b5d4d27313.gif"> 
+
+**Desafio dia 28 - Mudança de cor de fundo <a name="id28"></a>**
+<br>
+
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/90543052-7508b580-e15b-11ea-8d98-dc1982643c46.gif"> 
+
+**Desafio dia 29 - Menu responsivo <a name="id29"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/90541003-61a81b00-e158-11ea-9496-6e895b7a0601.gif"> 
+
 
 
 
