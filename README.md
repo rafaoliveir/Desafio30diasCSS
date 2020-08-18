@@ -198,7 +198,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Desafio dia 28 - Mudança de cor de fundo <a name="id28"></a>**
 <br>
 
-<img width="200px" src="https://user-images.githubusercontent.com/54906981/90543052-7508b580-e15b-11ea-8d98-dc1982643c46.gif"> 
+<img width="200px" src="https://user-images.githubusercontent.com/54906981/90545214-adf65980-e15e-11ea-9c3c-16ef680ab751.gif"> 
 
 **Desafio dia 29 - Menu responsivo <a name="id29"></a>**
 <br>
