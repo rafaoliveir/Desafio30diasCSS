@@ -1,84 +1,69 @@
-* 
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body
 {
+    margin: 0;
     display: flex;
-    justify-content: center;
     align-items: center;
-	min-height: 100vh;
-	background-color: #000;
-  
+    justify-content: center;
+    height: 100vh;
 }
-ul 
+.base
 {
+    width: 300px;
+    border-bottom: 4px solid #652DC1;
     position: relative;
-    display: flex;
+    animation: base 2s linear infinite;
 }
-ul li 
-{
-    list-style: none;
-}
-ul li label
-{
-    position: relative;
-}
-ul li label input[type="checkbox"]
+
+.bola
 {
     position: absolute;
-    opacity: 0;
-    cursor: pointer;
-}
-ul li label .icons 
-{
-    position: relative;
-    width: 60px;
-    height: 60px;
-    background: #18191f;
-    color: #555;
-    font-size: 28px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    margin: 0 10px;
+    left: 0;
     border-radius: 50%;
-	overflow: hidden;
-    box-shadow: -1px -1px 14px rgba(205,255,255,0.05)
-                4px 4px 6px rgba(0,0,0,0.0)
-                inset -1px -1px 4px rgba(255,255,255,0.05)
-                inset 1px 1px 1px rgba(0,0,0,0.01);
+    bottom: 1px;
+    width: 50px;
+    height: 50px;
+    background-color: #652DC1;
+    animation: animate 2s linear infinite;
 }
-ul li label .icons:before
+
+.bola:before 
 {
     content: "";
     position: absolute;
-    background: rgba(255,255,255,0.05);
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    background-color: #652DC1;
+
 }
-ul li label input[type="checkbox"]:checked ~ .icons
+.bola:after
 {
-    box-shadow: inset 0px 10px 12px rgba(255,255,255,0.05)
-                inset 4px 14px 16px rgba(0,0,0,0.02);
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #652DC1;
+    
 }
-ul li label input[type="checkbox"]:checked ~ .icons .fa
+
+@keyframes animate 
 {
-	
-    color: #FFFF66;
-    text-shadow: 0 0 15px #FFFF66,
-                 0 0 25px #FFFF66;
-    animation: animate 5s linear infinite;
+    0% {left: 0;}
+    50% {left: calc(100% - 50px);
+    transform: rotate(720deg);}
+    100% {left: 0;}
 }
-@keyframes animate
+
+@keyframes base 
 {
-    0%
-    {
-        filter: hue-rotate(0deg);
-    }
-    100%
-    {
-        filter: hue-rotate(360deg);
-    }
+    0% {transform: rotate(30deg);}
+    25% {transform: rotate(0deg);}
+    50% {transform: rotate(-30deg);}
+    75% {transform: rotate(0deg);}
+    100% {transform: rotate(30deg);}
 }
