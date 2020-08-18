@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
 body {
@@ -57,7 +56,6 @@ body {
     transition: max-height .2s ease-out;
   }
   
-  /* menu icon */
   
   .header .menu-icon {
     cursor: pointer;
