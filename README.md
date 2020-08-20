@@ -210,7 +210,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Desafio dia 30 - Fogos de artifício <a name="id30"></a>**
 <br>
 
-<img width="300px" src="https://user-images.githubusercontent.com/54906981/90828336-35d19480-e314-11ea-8f5c-5d4d6b368821.gif"> 
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/90829203-b5139800-e315-11ea-8463-aadb54bc31cc.gif"> 
 
 
 
