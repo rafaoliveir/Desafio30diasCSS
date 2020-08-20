@@ -1,0 +1,183 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(22, 21, 21);
+}
+.fogos
+{
+    position: absolute;
+}
+
+.brilho
+{
+    position: absolute;
+    left: -2px;
+    bottom: 0;
+    width: 3px;
+    height: 80px;
+    transform-origin: 50% 100%;
+    overflow: hidden;
+}
+.brilho:nth-child(1)
+{
+    transform: rotate(0deg)translateY(-15px);
+}
+.brilho:nth-child(2)
+{
+    transform: rotate(30deg)translateY(-15px);
+}
+.brilho:nth-child(3)
+{
+    transform: rotate(60deg)translateY(-15px);
+}
+.brilho:nth-child(4)
+{
+    transform: rotate(90deg)translateY(-15px);
+}
+.brilho:nth-child(5)
+{
+    transform: rotate(120deg)translateY(-15px);
+}
+.brilho:nth-child(6)
+{
+    transform: rotate(150deg)translateY(-15px);
+}
+.brilho:nth-child(7)
+{
+    transform: rotate(180deg)translateY(-15px);
+}
+.brilho:nth-child(8)
+{
+    transform: rotate(210deg)translateY(-15px);
+}
+.brilho:nth-child(9)
+{
+    transform: rotate(240deg)translateY(-15px);
+}
+.brilho:nth-child(10)
+{
+    transform: rotate(270deg)translateY(-15px);
+}
+.brilho:nth-child(11)
+{
+    transform: rotate(300deg)translateY(-15px);
+}
+.brilho:nth-child(12)
+{
+    transform: rotate(330deg)translateY(-15px);
+}
+.brilho:nth-child(13)
+{
+    transform: rotate(330deg)translateY(-15px);
+}
+
+.brilho:nth-child(14)
+{
+    transform: rotate(330deg)translateY(-15px);
+}
+.brilho:nth-child(15)
+{
+    transform: rotate(330deg)translateY(-15px);
+}
+.brilho:nth-child(16)
+{
+    transform: rotate(330deg)translateY(-15px);
+}
+
+
+.brilho::before
+{
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    height: 40px;
+    background-color: #2E2D88;
+    
+
+}
+
+@keyframes brilho
+{
+    0% 
+    {
+        top: 100%;
+    }
+
+    33%, 100%
+    {
+        top: -50%;
+    }
+}
+
+#fogos1
+{
+    left: 50%;
+    top: 50%;
+    transform: scale(1);
+
+}
+
+#fogos1 .brilho::before
+{
+    animation: brilho 2s ease-in-out infinite;
+    background-color: #f06ff5;
+
+}
+ 
+#fogos2
+{
+    left: 40%;
+    top: 40%;
+    transform: scale(.7);
+}
+#fogos2 .brilho::before
+{
+    animation: brilho 2s .6s ease-in-out infinite;
+    background-color: #e3ff66;
+
+}
+ 
+#fogos3
+{
+    left: 60%;
+    top:60% ;
+    transform: scale(.4);
+}
+#fogos3 .brilho::before
+{
+    animation: brilho 2s .4s ease-in-out infinite;
+    background-color: #4997D0;
+
+}
+
+#fogos4
+{
+    left:30%;
+    top:30% ;
+    transform: scale(.6);
+}
+#fogos4 .brilho::before
+{
+    animation: brilho 2s .5s ease-in-out infinite;
+    background-color: #DA2C43;
+
+}
+
+#fogos5
+{
+    left:70%;
+    top:50% ;
+    transform: scale(.5);
+}
+#fogos5 .brilho::before
+{
+    animation: brilho 2s .4s ease-in-out infinite;
+
+}
