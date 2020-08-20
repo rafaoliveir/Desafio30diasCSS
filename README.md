@@ -47,6 +47,8 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 * [Dia 27 - Loading (efeito pulsar)](#id27)
 * [Dia 28 - Mudança de Cor no BG](#id28)
 * [Dia 29 - Menu Responsivo](#id29)
+* [Dia 30 - Fogos de artifício](#id30)
+
 
 
 
@@ -204,6 +206,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <img width="300px" src="https://user-images.githubusercontent.com/54906981/90541003-61a81b00-e158-11ea-9496-6e895b7a0601.gif"> 
+
+**Desafio dia 30 - Fogos de artifício <a name="id30"></a>**
+<br>
+
+<img width="300px" src="https://user-images.githubusercontent.com/54906981/90828336-35d19480-e314-11ea-8f5c-5d4d6b368821.gif"> 
 
 
 
